@@ -11,6 +11,6 @@ This is a console app to generate 800,000 NFT punks using javascript
 
 ````node index.js ````
 
-## limit outputs eg: 100 images
+## limit outputs eg: 100 images with metadata
 
 ````node index.js 100````
